@@ -4,9 +4,7 @@ const Card = (props) => {
 
     return (
         <div className="w-full lg:w-3/6 xl:w-4/12 px-2.5 mb-5">
-
             <div className="bg-white">
-
                 <div>
                     <img 
                         src={props.url}
