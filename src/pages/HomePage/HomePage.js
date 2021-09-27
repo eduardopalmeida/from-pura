@@ -4,9 +4,8 @@ const HomePage = () => {
 
 
     return (
-            <div>
-                "CENAS"
-            </div>
+            <main className="bg-white mb-auto">
+            </main>
     )
 }
 

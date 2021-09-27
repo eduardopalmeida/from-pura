@@ -26,7 +26,6 @@ const Card = (props) => {
                                 {props.description}
                             </span>
                         </li>
-                        
                     </ul>
                 </div>
 

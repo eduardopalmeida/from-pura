@@ -42,21 +42,21 @@ const Header = () => {
                     <ul className=" md:flex-row md:flex">
                         <li className="list-none md:mr-5">
                             <NavLink 
-                                className="flex w-full text-base uppercase hover:text-yellow-800 cursor-pointer pt-2.5 px-2.5" 
+                                className="font-medium flex w-full text-lg uppercase text-yellow-900 hover:font-bold hover:text-yellow-600 cursor-pointer pt-2.5 px-2.5" 
                                 to="/products"
                             >Produtos
                             </NavLink>
                         </li>
                         <li className="list-none md:mr-5">
                             <NavLink 
-                                className="flex w-full text-base uppercase hover:text-yellow-800 cursor-pointer pt-2.5 px-2.5" 
-                                to=""
+                                className="font-medium flex w-full text-lg uppercase text-yellow-900 hover:font-bold hover:text-yellow-600 cursor-pointer pt-2.5 px-2.5" 
+                                to="/aboutus"
                             >Quem somos
                             </NavLink>
                         </li>
                         <li className="list-none md:mr-5">
                             <NavLink 
-                                className="flex w-full text-base uppercase hover:text-yellow-800 cursor-pointer pt-2.5 px-2.5" 
+                                className="font-medium flex w-full text-lg uppercase text-yellow-900 hover:font-bold hover:text-yellow-600 cursor-pointer pt-2.5 px-2.5" 
                                 to=""
                             >Contactos
                             </NavLink>
